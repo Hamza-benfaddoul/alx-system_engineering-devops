@@ -1,0 +1,2 @@
+#!/bin/bashc
+cat /etc/passwd | grep root
